@@ -24,6 +24,17 @@ The main goals of this project were to:
 * Use rule-based fuzzy inference to make interpretable gameplay decisions
 * Experiment with controller tuning to improve survival, asteroid avoidance, and scoring
 
+## Team Members
+
+This project was completed as a group project for ECE 449: Intelligent Systems Engineering.
+
+Team members:
+
+* Tabish Khan
+* Miles Taylor
+* Amara Yu
+
+
 ## Technologies Used
 
 * Python
